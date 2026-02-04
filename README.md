@@ -42,7 +42,6 @@ src/
  │   └─ api.js
  ├─ tests/             # Unit tests
  │   └─ SearchBar.test.jsx
- │   └─ ProtectedRoute.test.jsx
  ├─ App.jsx            # Route definitions
  └─ index.js           # App entry point
 ```
